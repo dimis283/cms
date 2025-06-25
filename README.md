@@ -82,30 +82,6 @@ This website gets its content from a separate CMS backend:
    - Chess club Website: `http://localhost:8000`
    - CMS Admin Panel: `http://localhost:8001`
 
-## File Structure
-
-```
-dopefolio-dynamic/
-├── app/
-│   ├── Http/Controllers/
-│   ├── Models/
-│   └── Services/
-│       └── CmsApiService.php
-├── resources/
-│   ├── views/
-│   │   ├── layouts/
-│   │   ├── portfolio/
-│   │   └── ...
-│   ├── css/
-│   └── js/
-├── routes/
-│   └── web.php
-├── public/
-│   ├── css/
-│   ├── js/
-│   └── images/
-└── ...
-```
 
 ## Technologies Used
 
