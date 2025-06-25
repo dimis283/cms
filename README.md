@@ -26,7 +26,7 @@ This website gets its content from a separate CMS backend:
 
 - **Frontend**: This repository (Laravel + Dopefolio template)
 - **Backend**: [CMS Repository](https://github.com/dimis283/demo) - Content management 
-- **Database**: SQLite database managed by the CMS backend,the files is at [CMS Repository](https://github.com/dimis283/demo) 
+- **Database**: SQLite database managed by the CMS backend,the file is at [CMS Repository](https://github.com/dimis283/demo) 
 
 ## Installation
 
