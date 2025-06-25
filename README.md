@@ -102,7 +102,7 @@ n
 
 ## Usage
 
-1. **Content Management**: Use the CMS backend to add/edit  content
+1. **Content Management**: Use the CMS backend (demo repository) to add/edit  content
 2. **View Chess club site**: Access the main website to see the content
 3. **Responsive Design**: The portfolio adapts to different screen sizes
 
