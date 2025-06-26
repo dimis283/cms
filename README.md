@@ -32,8 +32,8 @@ This website gets its content from a separate CMS backend:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dimis283/dopefolio-dynamic.git
-   cd dopefolio-dynamic
+   git clone https://github.com/dimis283/cms.git
+   cd cms
    ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ This website gets its content from a separate CMS backend:
 
 4. Configure environment (.env):
    ```
-   APP_NAME="Dopefolio Dynamic"
+   APP_NAME="Demo site"
    APP_URL=http://localhost:8000
    
   
