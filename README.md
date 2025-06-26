@@ -92,9 +92,6 @@ This website gets its content from a separate CMS backend:
 - **Composer** - PHP dependency management
 - **npm** - Node.js package management
 
-## Features
-
-n
 
 ### Dynamic Content
 - All chess club content is managed through the CMS
