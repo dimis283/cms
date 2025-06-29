@@ -16,7 +16,9 @@ class ContactFormMail extends Mailable
     public $messageContent; // Renamed to avoid conflict with Laravel's message() method
 
     public function __construct(array $data)
-    {
+    {   
+        $data = $data ?? [];
+        
         $this->name = $data['name'] ?? 'No name provided';
         $this->email = $data['email'] ?? 'No email provided';
         $this->messageContent = $data['message'] ?? 'No message provided';
